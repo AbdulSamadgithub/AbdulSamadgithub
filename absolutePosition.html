@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>AbsolutePosition</title>
+    <style>
+      #divone {
+        position: relative;
+        width: 400px;
+        height: 300px;
+        background-color: #dddddd;
+        padding: 20px;
+        border: 1px solid black;
+      }
+      .classone {
+        position: absolute;
+        bottom: 0;
+        top: 0;
+        right: 0;
+        width: 90%;
+        background-color: lightseagreen;
+        padding: 10px;
+        border: 1px solid black;
+      }
+      .classone,
+      .classtwo {
+        height: 100px;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="divone">
+      divone
+      <div class="classone">
+        divtwo
+        <div class="classtwo">divthree</div>
+      </div>
+    </div>
+  </body>
+</html>

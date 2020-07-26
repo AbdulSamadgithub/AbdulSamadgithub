@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>BoxModel</title>
+  <style>
+    div.classOne{
+      width: 300px;
+      background-color: yellowgreen;
+      margin: 10px;
+      text-align: center;
+    }
+
+    div.classTwo{
+      width: 300px;
+      margin: 5px;
+      border: 5px solid black;
+      padding: 5px;
+      background-color: #dddddd;
+      box-sizing:border-box;
+      letter-spacing: 1px;
+      outline: 3px groove lightsalmon;
+      outline-offset:0px;
+      text-align: left;
+      vertical-align: middle;
+      text-decoration: ;
+      text-decoration: solid;
+      box-shadow: 5px 5px 30px blue;
+    }
+    #p1.upperCase{
+      text-transform: capitalize;
+      font-size: 100%;
+      text-indent: 50px;
+      line-height: 20px;
+      word-spacing: 10px;
+    }
+
+    #heading{
+      font-variant: small-caps;
+      font-size: 43px;
+      text-shadow: 3px 3px 3px white;
+    }
+  </style>
+</head>
+<body>
+  <div class="classOne">
+    <h1 >Heading One</h1>
+  </div>
+  <div class="classTwo">
+    <h1 id="heading" >Heading Two</h1>
+    <p id="p1" class="upperCase">box Model says width is the combinition of four things, margin, padding, border, width. box Model says width is the combinition of four things, margin, padding, border, width. box Model says width is the combinition of four things, margin, padding, border, width. box Model says width is the combinition of four things, margin, padding, border, width</p>
+  </div>
+
+</body>
+</html>

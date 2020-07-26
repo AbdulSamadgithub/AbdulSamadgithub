@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Icons</title>
+    <link
+      rel="stylesheet"
+      href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+    />
+    <script>
+      function thumbsup() {
+        document.getElementById("headingOne").style.color = "blue";
+        document.getElementById("headingOne").innerHTML = "&#9886";
+      }
+      function change() {
+        document.getElementById("headingTwo").style.color = "blue";
+        document.getElementById("headingTwo").innerHTML = "&#9932";
+      }
+    </script>
+    <style>
+      @keyframes example {
+        from {
+          background-color: yellow;
+        }
+        to {
+          background-color: red;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <h1
+      id="headingOne"
+      style="font-size: 200px; margin: 20px;"
+      onclick="thumbsup()"
+      animation-name="example"
+      ;
+      animation-duration="5s"
+      ;
+    >
+      &#9776;
+    </h1>
+    <h1
+      id="headingTwo"
+      style="font-size: 200px; margin: 20px;"
+      onclick="change()"
+    >
+      &#8285;
+    </h1>
+  </body>
+</html>

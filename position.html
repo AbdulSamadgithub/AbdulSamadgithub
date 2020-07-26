@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Position</title>
+    <style>
+      #divOne {
+        box-sizing: border-box;
+        width: 100%;
+        background-color: lightblue;
+        padding: 10px;
+        overflow: hidden;
+        border: 1px solid red;
+      }
+      #divTwo {
+        display: block;
+        box-sizing: border-box;
+        border: 2px solid black;
+        background-color: lightgoldenrodyellow;
+        width: 95%;
+        position: relative;
+        left: 20px;
+      }
+      #divThree {
+        background-color: lightgreen;
+        display: block;
+        box-sizing: border-box;
+        border: 2px solid black;
+        width: 95%;
+        position: relative;
+        top: 20px;
+        left: 30px;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="divOne">
+      main div One
+      <div id="divTwo">
+        div two
+        <h1 style="position: relative; margin-left: 20%; left: 10%;">
+          divOne>divTwo
+        </h1>
+      </div>
+      <div id="divThree">
+        div Three
+        <h1>divOne>DivThree</h1>
+      </div>
+    </div>
+  </body>
+</html>

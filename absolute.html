@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Position | Fixed</title>
+    <style>
+      h1 {
+      }
+      div {
+        background-color: lightblue;
+        position: relative;
+        max-width: 100%;
+        height: 500px;
+        color: black;
+        padding: 10px;
+        margin: 10px;
+      }
+      #tl {
+        background-color: blue;
+        position: absolute;
+        overflow: hidden;
+        max-width: 50%;
+        max-height: 50%;
+        padding: 10px;
+        margin: 10px;
+        top: 0px;
+        left: 0;
+      }
+      #tr {
+        background-color: red;
+        position: absolute;
+        overflow: hidden;
+        max-width: 50%;
+        max-height: 50%;
+        padding: 10px;
+        margin: 10px;
+        top: 0;
+        right: 0;
+      }
+      #bl {
+        background-color: yellow;
+        position: absolute;
+        max-width: 50%;
+        max-height: 50%;
+        padding: 10px;
+        margin: 10px;
+        left: 0;
+        bottom: 0;
+      }
+      #br {
+        background-color: orange;
+        position: absolute;
+        max-width: 50%;
+        max-height: 50%;
+        padding: 10px;
+        margin: 10px;
+        right: 0;
+        bottom: 0;
+        overflow: hidden;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="one" class="lefttop">
+      <h1 id="tl">
+        TL One Two three Four Five six seven fgsdfgsdfg sdfgsdfadfadf
+        adsfasdfasdf
+      </h1>
+      <h1 id="tr">
+        TR asdhfkhsdkj s dfsadfasdfasdf sdfasdfasdfs dfsadfas
+        asdfasdfasdfasdfasdfasdfasdfjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+      </h1>
+      <h1 id="bl">BL</h1>
+      <h1 id="br">BR</h1>
+    </div>
+  </body>
+</html>

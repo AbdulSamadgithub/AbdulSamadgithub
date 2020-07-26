@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Lists</title>
+    <style>
+      ul,
+      ol {
+        border-collapse: collapse;
+        display: block;
+        padding: 15px, 0px;
+        margin: 10px;
+        list-style-position: outside;
+      }
+
+      li:nth-child(even) {
+        border-collapse: collapse;
+        border: 2px solid black;
+        padding: 10px;
+        background-color: lightblue;
+      }
+      li:nth-child(odd) {
+        border-collapse: collapse;
+        border: 2px solid black;
+        padding: 10px;
+        background-color: lightgray;
+      }
+      /*
+      ul > li {
+        padding: 10px;
+        background-color: darkkhaki;
+      }
+      ol > li {
+        padding: 10px;
+        background-color: darkolivegreen;
+      }
+*/
+      div {
+        background-color: lightslategray;
+        padding: 5px;
+      }
+      ul.classOne {
+        list-style-type: square;
+        background-color: #dddddd;
+      }
+      ul.classTwo {
+        list-style-type: disc;
+
+        background-color: #ddffff;
+      }
+
+      ol.classThree {
+        list-style-type: upper-roman;
+        background-color: #dddddd;
+      }
+      ol.classFour {
+        list-style-type: decimal-leading-zero;
+        background-color: #ddffff;
+      }
+    </style>
+  </head>
+  <body>
+    <div>
+      <ul class="classOne">
+        <li style="font-size: xxx-large; text-decoration: solid;">One</li>
+        <h1 style="background-color: white;">Heading One</h1>
+        <p
+          style="background-color: white; width:100;">
+          This is the paragraph inside the list headingThis is the paragraph
+          paragraph inside the list headingThis is the paragraph inside the list
+          headingThis is the paragraph inside the list headingThis is the
+          paragraph inside the list headingThis is the paragraph inside the list
+          headingThis is the paragraph inside the list headingThis is the
+          paragraph inside the list headingThis is the paragraph inside the list
+          heading
+        </pstyle="
+          background-color:
+          white;
+        >
+          <li>Two</li>
+          <li>Three</li>
+        </p>
+      </ul>
+
+      <ul class="classTwo">
+        <li>Four</li>
+        <li>Five</li>
+        <li>Six</li>
+      </ul>
+
+      <ol class="classThree">
+        <li>Sesven</li>
+        <li>Eight</li>
+        <li>Nine</li>
+      </ol>
+      <ol class="classFour">
+        <li>Ten</li>
+        <li>Eleven</li>
+        <li>Twelve</li>
+      </ol>
+    </div>
+  </body>
+</html>

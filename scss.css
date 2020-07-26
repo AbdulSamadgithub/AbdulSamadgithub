@@ -1,0 +1,8 @@
+.scssclassone {
+  background-color: lightcoral;
+}
+
+.scssclassone .scssclasstwo {
+  border-radius: 10px;
+}
+/*# sourceMappingURL=scss.css.map */

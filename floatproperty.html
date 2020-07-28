@@ -6,19 +6,35 @@
     <title>Float</title>
     <style>
       .class {
-        max-width: 40%;
-        height: 100px;
-        background-color: blue;
-        float: left;
+        max-width: 100%;
+        height: 300px;
+        border: 5px solid red;
+        background-color: lightblue;
         margin-left: 20px;
         margin-top: 90px;
         padding: 10px;
+        overflow: auto;
+        clear: ;
+      }
+      .classone {
+        width: 200px;
+        height: 100px;
+        background-color: yellowgreen;
+        padding: 10px;
+        border: 5px solid black;
+        float: right;
+        position: relative;
+        top: 10px;
+        bottom: 50px;
       }
     </style>
   </head>
   <body>
     <div class="class">
-      <h1>Some Heading Text</h1>
+      <h1>This is some text</h1>
+      <div class="classone">
+        <h1>The text inside heading</h1>
+      </div>
     </div>
   </body>
 </html>

@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Inline Block</title>
+    <style>
+      h1 {
+        display: block;
+        padding: 10px;
+        background-color: lightblue;
+        color: darkgreen;
+      }
+      span.a {
+        display: inline; /* the default for span */
+        width: 100px;
+        height: 100px;
+        padding: 5px;
+        border: 1px solid blue;
+        background-color: yellow;
+      }
+
+      span.b {
+        display: inline-block;
+
+        overflow: auto;
+        width: 100px;
+        height: 100px;
+        padding: 5px;
+        border: 1px solid blue;
+        background-color: yellow;
+        position: relative;
+      }
+
+      span.c {
+        display: block;
+        width: 20%;
+        height: max-content;
+        padding: 5px;
+        border: 1px solid blue;
+        background-color: yellow;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>
+      left heading side > <span class="a">This is span</span> < right heading
+      side
+    </h1>
+    <h1>
+      left heading side >
+      <span class="b">Inline block some more text this is some more text</span>
+      < right heading side
+    </h1>
+    <h1>
+      left heading side > <span class="c">This is span</span> < right heading
+      side
+    </h1>
+  </body>
+</html>

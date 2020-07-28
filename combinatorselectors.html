@@ -1,1 +1,41 @@
-
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Combinitors</title>
+    <style>
+      div h1 {
+        background-color: lightgrey;
+      }
+      div p {
+        background-color: lightblue;
+      }
+      div span {
+        background-color: lightpink;
+      }
+      h1 > h1 {
+        background-color: darkblue;
+      }
+      #divtwo > h1 {
+        background-color: darkolivegreen;
+      }
+    </style>
+  </head>
+  <body>
+    <div>
+      <h1>
+        Heading One
+        <h1 id="childHeading">child Heading</h1>
+      </h1>
+      <p>Paragraph one</p>
+      <span>Span One</span>
+      <h1>Heading Two</h1>
+      <p>Paragraph Two</p>
+      <span>Span Two</span>
+    </div>
+    <div id="divtwo">
+      <h1>heading in div two</h1>
+    </div>
+  </body>
+</html>

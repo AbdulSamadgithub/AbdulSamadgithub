@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Combinators</title>
+    <style>
+      div ~ p {
+        background-color: darkgray;
+        font-size: xx-large;
+      }
+      div > h1 {
+        background-color: darkgreen;
+      }
+      #divtwo * {
+        background-color: darkcyan;
+      }
+    </style>
+  </head>
+  <body>
+    <div>
+      <h1>Heading one</h1>
+      <p>Paragraph One</p>
+      <h1>heading Two</h1>
+    </div>
+
+    <p>sibling paragrpah</p>
+    <p>sibling two</p>
+    <p>sibling three</p>
+
+    <div id="divtwo">
+      <h1>Heading One</h1>
+      <h1>Heading Two</h1>
+      <h1>Heading Three</h1>
+      <p>paragraph</p>
+    </div>
+  </body>
+</html>

@@ -5,9 +5,64 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>PseudoClasses</title>
     <style>
+      a {
+        display: none;
+        background-color: darkblue;
+        padding: 10px;
+        text-decoration: none;
+
+      }
       div {
+        background-color: darkkhaki;
+        padding: 2px;
+        font-size: small;
+        max-width: 100%;
+      }
+      div:hover a {
+        top: 10;
+        margin: 20px;
+        padding: 10px;
+        background-color: lightgreen;
+        display: block;
+      }
+      div:hover #link{
+        color: red;
+      }
+      div:first-child {
+        color: red;
       }
     </style>
   </head>
-  <body></body>
+  <body>
+    <div>
+      <h1>Div One</h1>
+      <a id="link" href="combinatorsOne.html">THe LInk</a>
+      <a href="combinatorsOne.html">second decendant paragraph</p>
+      <a href="combinatorsOne.html">decendant paragraph</p>
+      <a href="combinatorsOne.html">decendant paragraph</p>
+    </div>
+    
+    <div>
+      <h1>Div Two</h1>
+      <a href="combinatorsOne.html">decendant paragraph</a>
+      <a href="multipleClasses.html">second decendant paragraph</a>
+      <a href="multipleClasses.html">decendant paragraph</a>
+      <a href="multipleClasses.html">decendant paragraph</a>
+    </div>
+
+    <div>
+      <h1>Div Three</h1>
+      <a href="multipleClasses.html">decendant paragraph</a>
+      <a href="multipleClasses.html">second decendant paragraph</a>
+      <a href="multipleClasses.html">decendant paragraph</a>
+      <a href="multipleClasses.html">decendant paragraph</a>
+    </div>
+    <div>
+      <h1>Div Four</h1>
+      <a href="multipleClasses.html">decendant paragraph</a>
+      <a href="multipleClasses.html">second decendant paragraph</a>
+      <a href="multipleClasses.html">decendant paragraph</a>
+      <a href="multipleClasses.html">decendant paragraph</a>
+    </div>
+  </body>
 </html>

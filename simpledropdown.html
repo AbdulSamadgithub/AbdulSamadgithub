@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Simple drop down</title>
+    <style>
+      .drop {
+        background-color: lightgreen;
+      }
+      .content {
+      }
+      .content a {
+        display: none;
+        padding: 10px;
+        text-decoration: none;
+      }
+      .content a:nth-child(even) {
+        background-color: lightskyblue;
+      }
+      .content a:hover {
+        background-color: lightyellow;
+      }
+      .drop:hover .content > a {
+        display: block;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="drop">
+      <h1>Drop</h1>
+      <div class="content">
+        <a href="./absolute.html">absolutce</a>
+        <a href="./combinatorselectors.html">combinatorselectors</a>
+        <a href="./animationsone.html">animationsone</a>
+        <a href="./animationsone.html">animationsone</a>
+      </div>
+    </div>
+  </body>
+</html>

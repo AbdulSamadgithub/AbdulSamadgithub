@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Drop down image</title>
+    <style>
+      /*Idea behind this is the same hide the image first and than ono hover display block the image with another same image and show that in block*/
+
+      .imageone {
+        width: 100px;
+        height: 100px;
+        background-color: lightcoral;
+      }
+      .imagetwo {
+        display: none;
+        width: 300px;
+        height: 300px;
+      }
+      .expand {
+      }
+      .expand:hover .imagetwo {
+        display: block;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="expand">
+      <img class="imageone" src="images/imageFive.png" alt="imagefive" />
+      <div>
+        <img class="imagetwo" src="images/imagefive.png" alt="image five" />
+      </div>
+    </div>
+  </body>
+</html>

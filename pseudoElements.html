@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Insert After</title>
+    <style>
+      p::after {
+        content: " : What are your details";
+      }
+      p::first-line {
+        background-color: lightblue;
+        /*The first line in the browser window will be effected*/
+      }
+    </style>
+  </head>
+  <body>
+    <p>
+      Abdul Samad this is the second line of the paragraph what are your details
+      will be added to the paragraph after the paragraph will end
+    </p>
+  </body>
+</html>

@@ -10,6 +10,8 @@
         position: sticky;
         top: 0px;
         margin-left: 0;
+        padding: 3px;
+        display: none;
       }
       a {
         display: inline-block;
@@ -22,13 +24,21 @@
       }
       a:hover {
         background-color: lightblue;
+        border: 3px solid black;
+      }
+      #logoheading:hover div {
+        display: block;
+      }
+      #logoheading {
+        text-shadow: ;
       }
     </style>
   </head>
   <body>
     <h1
+      id="logoheading"
       style="
-        text-align: center;
+        text-align: left;
         font-size: xx-large;
         background-color: lightblue;
       "
@@ -36,12 +46,13 @@
       Abdul Samad<span style="color: green; font-size: xxx-large;"
         ><b>.com</b></span
       >
+
+      <div>
+        <a href="position.html" style="float: right;">Position</a>
+        <a href="./boxModel.html">box model</a>
+        <a href="./classselectors.html">classselectors</a>
+      </div>
     </h1>
-    <div>
-      <a href="position.html">Position</a>
-      <a href="./boxModel.html">box model</a>
-      <a href="./classselectors.html">classselectors</a>
-    </div>
     <h1>this is the change that is made</h1>
     <h1>Random Heading</h1>
     <h1>Random Heading</h1>

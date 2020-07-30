@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      div:nth-child(odd)::first-letter {
+        font-size: xxx-large;
+        color: darkslateblue;
+        opacity: 1;
+      }
+    </style>
+  </head>
+  <body>
+    <div>
+      <h1>This is the first child with big first letter</h1>
+    </div>
+    <div>
+      <h1>
+        This is inside the second div its even so its first letter will not be
+        effected. as in the styles weve selected that only odd elements in the
+        specifically div elements will be selected
+      </h1>
+    </div>
+    <div>
+      <h1>Big first letter it will be effected as it is odd</h1>
+    </div>
+  </body>
+</html>

@@ -4,6 +4,24 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>First Child</title>
+    <style>
+      h1:first-child p {
+        color: red;
+        background-color: yellow;
+      }
+      h1 {
+        background-color: #dddddd;
+        padding: 20px;
+      }
+    </style>
   </head>
-  <body></body>
+  <body>
+    <h1>
+      One
+      <p>paragraph</p>
+    </h1>
+    <h1>Two</h1>
+    <h1>Three</h1>
+    <p>paragraph</p>
+  </body>
 </html>

@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Example of CSS Sprite</title>
+    <style>
+      /*sprite cow is a good website for locating the position of the png in a single image */
+      .sprite {
+        background: url("sprites/navdark.png") no-repeat;
+      }
+      .ie {
+        width: auto; /* Icon width */
+        height: auto; /* Icon height */
+        display: inline-block; /* Display icon as inline block */
+        background-position: 200px; /* Icon background position in sprite */
+      }
+    </style>
+  </head>
+  <body>
+    <span class="sprite ie">sprite</span>
+  </body>
+</html>

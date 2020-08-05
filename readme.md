@@ -18,7 +18,7 @@
 
 <br />
 
-[facebook]: <a target="_blank" >https://www.facebook.com/profile.php?id=100008059773001</a>
+[facebook]: https://www.facebook.com/profile.php?id=100008059773001
 [whatsapp]: https://wa.me/03177535201
 [website]: https://codeSTACKr.com
 [twitter]: https://twitter.com/codeSTACKr

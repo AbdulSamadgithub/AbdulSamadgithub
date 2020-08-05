@@ -9,19 +9,11 @@
 - ⚡ Hobbies : I like to play soccer, video games, and create stupid videos sometimes
 
 ### Connect with me:
-
-<a href=[facebook] link="rel="stylesheet";href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"" style="
-  padding: 10px;
-  font-size: 20px;
-  width: 30px;
-  text-align: center;
-  text-decoration: none;
-  margin: 5px 2px;" class="fa fa-facebook"></a>
   
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][whatsapp]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Facebook | Abdul Samad" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />][facebook]
+[<img align="left" alt="WhatsApp | Abdul Samad" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/whatsapp.svg" />][whatsapp]
+[<img align="left" alt="Youtube | Abdul Samad" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/youtube.svg" />][Youtube]
+[<img align="left" alt="Facebook | Abdul Samad" width="22px" src="" />][facebook]
 
 <br />
 
@@ -29,7 +21,7 @@
 [whatsapp]: https://wa.me/03177535201
 [website]: https://codeSTACKr.com
 [twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
+[youtube]: https://www.youtube.com/channel/UCpdSatx1darbkK4koxxRvjg/
 [instagram]: https://instagram.com/codeSTACKr
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B

@@ -1,4 +1,4 @@
-### Hey ! Im <h1>ABDUL SAMAD</h1> - aka Samad Sangi
+### Hey ! Im <h1 style="display:inline;">ABDUL SAMAD</h1> - aka Samad Sangi
 
 ## Im a student developer and tech enthusiast!
 

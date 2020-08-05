@@ -10,13 +10,13 @@
 
 ### Connect with me:
 
-[<a href=[facebook] link="rel="stylesheet";href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"" style="
+<a href=[facebook] link="rel="stylesheet";href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"" style="
   padding: 10px;
   font-size: 20px;
   width: 30px;
   text-align: center;
   text-decoration: none;
-  margin: 5px 2px;" class="fa fa-facebook"></a>]
+  margin: 5px 2px;" class="fa fa-facebook"></a>
   
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]

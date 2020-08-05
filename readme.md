@@ -1,12 +1,12 @@
-### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
+### Hey ! Im [<h1>ABDUL SAMAD</h1>] - aka Samad Sangi
 
-## I'm a Husband, Father, Developer, and Teacher!
+## Im a student developer and tech enthusiast!
 
-- 🔭 I’m currently working on a [VS Code Course][website]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🔭 I’m currently learning to code !
+- 🌱 I’m currently learning everything and anything that i can 🤣
+- 👯 I’m looking to collaborate with other beginners or anyone who's interested to work on anything web and android related
+- 🥅 TODO : Learn to develop android apps and websites
+- ⚡ Hobbies : I like to play soccer, video games, and create stupid videos sometimes
 
 ### Connect with me:
 

@@ -3,7 +3,7 @@
 ## Im a student developer and tech enthusiast!
 
 - 🔭 I’m currently learning to code !
-- 🌱 I’m currently learning everything and anything that i can 🤣
+- 🌱 I’m learning everything and anything that i can at this time 🤣
 - 👯 I’m looking to collaborate with other beginners or anyone who's interested to work on anything web and android related
 - 🥅 TODO : Learn to develop android apps and websites
 - ⚡ Hobbies : I like to play soccer, video games, and create stupid videos sometimes

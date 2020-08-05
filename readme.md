@@ -10,7 +10,7 @@
 
 ### Connect with me:
   
-[<img align="left" alt="Facebook | Abdul Samad" width="22px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />][facebook]
+[<img align="left" alt="Facebook | Abdul Samad" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />][facebook]
 [<img align="left" alt="WhatsApp | Abdul Samad" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/whatsapp.svg" />][whatsapp]
 [<img align="left" alt="Youtube | Abdul Samad" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/youtube.svg" />][Youtube]
 <br>
@@ -18,7 +18,7 @@
 
 <br />
 
-[facebook]: https://www.facebook.com/profile.php?id=100008059773001
+[facebook]: <a target="_blank" >https://www.facebook.com/profile.php?id=100008059773001</a>
 [whatsapp]: https://wa.me/03177535201
 [website]: https://codeSTACKr.com
 [twitter]: https://twitter.com/codeSTACKr

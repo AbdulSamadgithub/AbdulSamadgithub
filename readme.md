@@ -1,4 +1,4 @@
-### Hey ! Im ABDUL SAMAD - aka Samad
+### Hey ! Im ABDUL SAMAD - aka Samad step brother
 
 ## Im a student developer and tech enthusiast!
 

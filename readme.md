@@ -1,4 +1,4 @@
-### Hey ! Im ABDUL SAMAD - aka Samad Sangi
+### Hey ! Im ABDUL SAMAD - aka Samad
 
 ## Im a student developer and tech enthusiast!
 

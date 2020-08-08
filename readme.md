@@ -1,11 +1,11 @@
-### Hey ! Im ABDUL SAMAD
+### Hi ! Im ABDUL SAMAD
 
 ## Im a student developer and tech enthusiast!
 
 - 🔭 I’m currently learning to code !
 - 🌱 I’m learning everything and anything that i can at this time 🤣
 - 👯 I’m looking to collaborate with other beginners or anyone who's interested to work on anything web and android related
-- 🥅 TODO : Learn to develop android apps and websites
+- 🥅 2020 Goals : Learn to develop websites and apps with android studio and flutter
 - ⚡ Hobbies : I like to play soccer, video games, and create stupid videos sometimes
 
 ### Connect with me:
@@ -20,11 +20,4 @@
 
 [facebook]: https://www.facebook.com/profile.php?id=100008059773001
 [whatsapp]: https://wa.me/+923177535201
-[website]: https://codeSTACKr.com
-[twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://www.youtube.com/channel/UCpdSatx1darbkK4koxxRvjg/
-[instagram]: https://instagram.com/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0

@@ -1,4 +1,4 @@
-### Hi ! Im ABDUL SAMAD
+### Hi !  I'm ABDUL SAMAD
 
 ## Im a student developer and tech enthusiast!
 

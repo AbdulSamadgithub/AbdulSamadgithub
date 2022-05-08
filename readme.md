@@ -10,10 +10,10 @@
 
 ### Connect with me:
   
-[<img align="left" alt="Facebook | Abdul Samad" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />][facebook]
-[<img align="left" alt="WhatsApp | Abdul Samad" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/whatsapp.svg" />][whatsapp]
-[<img align="left" alt="Youtube | Abdul Samad" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/youtube.svg" />][Youtube]
-[<img align="left" alt="LinkedIn | Abdul Samad" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
+[<img align="left" alt="Facebook | Abdul Samad" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />][facebook]
+[<img align="left" alt="WhatsApp | Abdul Samad" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/whatsapp.svg" />][whatsapp]
+[<img align="left" alt="Youtube | Abdul Samad" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/youtube.svg" />][Youtube]
+[<img align="left" alt="LinkedIn | Abdul Samad" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 <br>
 ### WhatsApp : 03177535201
 

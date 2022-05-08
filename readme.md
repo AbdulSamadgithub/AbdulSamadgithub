@@ -13,6 +13,7 @@
 [<img align="left" alt="Facebook | Abdul Samad" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />][facebook]
 [<img align="left" alt="WhatsApp | Abdul Samad" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/whatsapp.svg" />][whatsapp]
 [<img align="left" alt="Youtube | Abdul Samad" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/youtube.svg" />][Youtube]
+[<img align="left" alt="LinkedIn | Abdul Samad" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 <br>
 ### WhatsApp : 03177535201
 
@@ -21,3 +22,4 @@
 [facebook]: https://www.facebook.com/profile.php?id=100008059773001
 [whatsapp]: https://wa.me/+923177535201
 [youtube]: https://www.youtube.com/channel/UCpdSatx1darbkK4koxxRvjg/
+[linkedin]: https://www.linkedin.com/in/abdul-samad-b69299172/

@@ -1,25 +1,20 @@
-### Hi !  I'm ABDUL SAMAD
+<h1 align="center">Hi 👋, I'm Abdul Samad</h1>
+<h3 align="center">Full stack flutter developer, Google certified UX Designer</h3>
 
-## Im a student developer and tech enthusiast!
+- 🔭 A project I'm actively maintaining [App Sync](https://bit.ly/appsync1)
 
-- 🔭 I’m currently learning to code !
-- 🌱 I’m learning everything and anything that i can at this time
-- 👯 I’m looking to collaborate with other beginners or anyone who's interested to work on anything web and android related
-- 🥅 2020 Goals : Learn to develop apps with android studio, flutter, react and react native
-- ⚡ Hobbies : I like to play soccer, video games, and create stupid videos sometimes
+- 👯 Recent ChatGPT project [Bot Write](https://bit.ly/botwrite)
 
-### Connect with me:
-  
-[<img align="left" alt="Facebook | Abdul Samad" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />][facebook]
-[<img align="left" alt="WhatsApp | Abdul Samad" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/whatsapp.svg" />][whatsapp]
-[<img align="left" alt="Youtube | Abdul Samad" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/youtube.svg" />][Youtube]
-[<img align="left" alt="LinkedIn | Abdul Samad" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
-<br>
-### WhatsApp : 03177535201
+- 🤝 Connect with me If you want to create products smaller segment of a niche market [PersonalWebsite](https://bit.ly/samadweb)
 
-<br />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/samadfullstack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="samadfullstack" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/samaddoestech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samaddoestech" height="30" width="40" /></a>
+<a href="https://fb.com/samadfullstackfb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="samadfullstackfb" height="30" width="40" /></a>
+<a href="https://dribbble.com/abdulsamad_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="abdulsamad_" height="30" width="40" /></a>
+<a href="https://www.behance.net/abdulsamad81" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="abdulsamad81" height="30" width="40" /></a>
+</p>
 
-[facebook]: https://www.facebook.com/profile.php?id=100008059773001
-[whatsapp]: https://wa.me/+923177535201
-[youtube]: https://www.youtube.com/channel/UCpdSatx1darbkK4koxxRvjg/
-[linkedin]: https://www.linkedin.com/in/abdul-samad-b69299172/
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>

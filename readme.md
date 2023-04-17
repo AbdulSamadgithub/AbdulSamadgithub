@@ -5,7 +5,7 @@
 
 - 👯 Recent ChatGPT project [Bot Write](https://bit.ly/botwrite)
 
-- 🤝 Connect with me If you want to create products smaller segment of a niche market [PersonalWebsite](https://bit.ly/samadweb)
+- 🤝 Connect with me If you want to create products for smaller segment of a niche market [PersonalWebsite](https://bit.ly/samadweb)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
